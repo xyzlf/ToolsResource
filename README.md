@@ -5,7 +5,7 @@
 
 一款Windows环境下轻量级的gif录制工具，录制gif图比较方便。github上面的gif效果图，一般都是用它制作的。使用真实手机开发的时候，我一般先录制视频，然后用这个工具在播放视频的基础上，录制下gif图。本来希望能够直接将视频转换成Gif，找了些教程发现都比较复杂，操作也不方便。如果有知道简便方法的童鞋，希望不吝赐教，感激不尽！！
 
-# apktools_windows.rar
+# Apktools_windows.rar
 
 1、Windows环境下使用apktool，官网教程地址：<https://ibotpeaches.github.io/Apktool/install/>，apktool版本列表官网地址：<https://bitbucket.org/iBotPeaches/apktool/downloads>
 
