@@ -22,3 +22,7 @@
 2、A tool for reverse engineering Android apk files.
 
 <img src="apktool_reverse.png"/>
+
+# Windows环境下，反编译工具dex2jar
+
+Windows环境下的反编译工具dex2jar，查看jar工具gui推荐地址：<https://github.com/skylot/jadx>
