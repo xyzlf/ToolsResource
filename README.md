@@ -7,9 +7,9 @@
 
 # apktools_windows.rar
 
-Windows环境下使用ApkTools，官网地址：<https://ibotpeaches.github.io/Apktool/install/>
+1、Windows环境下使用apktool，官网教程地址：<https://ibotpeaches.github.io/Apktool/install/>，apktool版本列表官网地址：<https://bitbucket.org/iBotPeaches/apktool/downloads>
 
-<img src="apktools_install.png"/>
+<img src="apktool_install.png"/>
 
 工具包里面已经下载了一份Windows下的工具包，版本：2.2.1，发布时间：2016-10-18。
 
@@ -18,3 +18,7 @@ Windows环境下使用ApkTools，官网地址：<https://ibotpeaches.github.io/A
 （2）将apktool.jar和apktool.bat拷贝到C盘的Windows文件夹下面即可。
 
 （3）然后在dos下输入apktool试试，看看是否配置成功了。
+
+2、A tool for reverse engineering Android apk files.
+
+<img src="apktool_reverse.png"/>
